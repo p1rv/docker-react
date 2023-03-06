@@ -13,9 +13,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>OK, I am editing it now</p>
-        <p>But am I?</p>
-        <p>Allright it works fine</p>
+        <p>Changed on feature branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
